@@ -23,11 +23,11 @@ function App() {
       <header>
         <Navbar />
       </header>
-      <div className="max-w-xl mx-auto">
+      <div className=" max-w-xl mx-auto">
         <section>
           <Hero />
         </section>
-        <section>{cards}</section>
+        <section className="flex justify-between pl-9 pt-12">{cards}</section>
       </div>
     </>
   );
