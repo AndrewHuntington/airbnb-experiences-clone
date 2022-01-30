@@ -4,18 +4,7 @@ import Card from '../Card';
 import { cardData } from '../../data/cardData';
 
 test('renders card img', () => {
-  const { id, title, price, coverImg, stats, location } = cardData[0];
-  render(
-    <Card
-      key={id}
-      coverImg={coverImg}
-      title={title}
-      price={price}
-      rating={stats.rating}
-      reviewCount={stats.reviewCount}
-      location={location}
-    />
-  );
+  render(<Card key={cardData[0].id} data={cardData[0]} />);
   const cardImg = screen.getByTestId('card-img');
   expect(cardImg).toBeInTheDocument();
 });
