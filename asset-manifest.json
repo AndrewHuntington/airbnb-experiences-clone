@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/airbnb-experiences-clone/static/css/main.5d3f9f60.css",
+    "main.js": "/airbnb-experiences-clone/static/js/main.947fb83b.js",
+    "static/js/787.2dacc599.chunk.js": "/airbnb-experiences-clone/static/js/787.2dacc599.chunk.js",
+    "static/media/photo-grid.png": "/airbnb-experiences-clone/static/media/photo-grid.294d59b66b94e0e456cf.png",
+    "static/media/mountain-bike.png": "/airbnb-experiences-clone/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
+    "static/media/wedding-photography.png": "/airbnb-experiences-clone/static/media/wedding-photography.62dfa0af6d4f23912427.png",
+    "static/media/katie-zaferes.png": "/airbnb-experiences-clone/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
+    "static/media/airbnb-logo.png": "/airbnb-experiences-clone/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "index.html": "/airbnb-experiences-clone/index.html",
+    "main.5d3f9f60.css.map": "/airbnb-experiences-clone/static/css/main.5d3f9f60.css.map",
+    "main.947fb83b.js.map": "/airbnb-experiences-clone/static/js/main.947fb83b.js.map",
+    "787.2dacc599.chunk.js.map": "/airbnb-experiences-clone/static/js/787.2dacc599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3f9f60.css",
+    "static/js/main.947fb83b.js"
+  ]
+}
