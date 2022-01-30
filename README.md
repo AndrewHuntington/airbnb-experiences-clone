@@ -11,7 +11,7 @@ To practice creating a reusable component. Then displaying that component multip
 - React
   - Functional components
 - TypeScript
-- Tailswind CSS
+- Tailwind CSS
 - Testing Library
   - Component tests are found in src/components/tests/
 
